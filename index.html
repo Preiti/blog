@@ -1,0 +1,40 @@
+---
+layout: default
+title: Amy Lee Walton
+---
+
+<div id="home">
+  <h1>Blog Posts</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}/blog-template{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
+
+  <h1>Class Lectures, Demos, Syllabus</h1>
+  <ul class="posts">
+    <li><span>21 Oct 2014</span> &raquo; <a href="{{ site.url }}/blog-template/pdfs/Syllabus_Visualization-and-Prototyping-2014.pdf">Syllabus: Visualization and Prototyping 2014 (PDF)</a></li>
+    <li><span>21 Oct 2014</span> &raquo; <a href="{{ site.url }}/blog-template/pdfs/01_RoleList.pdf">Role List (PDF)</a></li>
+  </ul>
+
+  <h1>Other Useful References</h1>
+  <ul class="posts">
+    <li><span>22 Oct 2014</span> &raquo; <a href="https://www.mapbox.com/mapbox-studio/#darwin">Mapbox Studio</a></li>
+    <li><span>22 Oct 2014</span> &raquo; <a href="http://www.hongkiat.com/blog/creative-world-maps/">40 Creative Remakes Of The World Map</a></li>
+    <li><span>22 Oct 2014</span> &raquo; <a href="http://www.nytimes.com/2013/12/05/arts/international/abstract-maps-that-read-between-the-lines.html">Abstract Maps That Read Between the Lines</a></li>
+  </ul>
+
+<!--
+  <h1>Prominent Open Source Projects</h1>
+  <ul class="posts">
+    <li><a href="http://github.com/github/gollum/">Gollum:</a> A simple, Git-powered wiki with a sweet API and local frontend.</li>
+    <li><a href="http://github.com/mojombo/jekyll/">Jekyll:</a> A simple, blog aware, static site generator (used for this site).</li>
+    <li><a href="http://github.com/mojombo/god/">God:</a> Ruby process monitoring framework with easy extensibility.</li>
+    <li><a href="http://github.com/mojombo/grit/">Grit:</a> Object oriented Ruby bindings for Git (used by GitHub).</li>
+    <li><a href="http://github.com/mojombo/ernie/">Ernie:</a> Ruby/Erlang Hybrid BERT-RPC server.</li>
+    <li><a href="http://github.com/mojombo/proxymachine/">ProxyMachine:</a> Layer 7 routing proxy in Ruby with Event Machine.</li>
+    <li><a href="http://github.com/mojombo/primer/">Primer:</a> JavaScript based Flash-like API layered on top of Canvas.</li>
+    <li><a href="http://github.com/mojombo/chronic/">Chronic:</a> Ruby natural language date/time parser.</li>
+  </ul>
+-->
+</div>
