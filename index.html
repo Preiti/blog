@@ -7,14 +7,14 @@ title: Preeti Singh
   <h1>Blog Posts</h1>
   <ul class="posts">
     {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}/blog-template{{ post.url }}">{{ post.title }}</a></li>
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.url }}/blog{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 
   <h1>Class Lectures, Demos, Syllabus</h1>
   <ul class="posts">
-    <li><span>21 Oct 2014</span> &raquo; <a href="{{ site.url }}/blog-template/pdfs/Syllabus_Visualization-and-Prototyping-2014.pdf">Syllabus: Visualization and Prototyping 2014 (PDF)</a></li>
-    <li><span>21 Oct 2014</span> &raquo; <a href="{{ site.url }}/blog-template/pdfs/01_RoleList.pdf">Role List (PDF)</a></li>
+    <li><span>21 Oct 2014</span> &raquo; <a href="{{ site.url }}/blog/pdfs/Syllabus_Visualization-and-Prototyping-2014.pdf">Syllabus: Visualization and Prototyping 2014 (PDF)</a></li>
+    <li><span>21 Oct 2014</span> &raquo; <a href="{{ site.url }}/blog/pdfs/01_RoleList.pdf">Role List (PDF)</a></li>
   </ul>
 
   <h1>Other Useful References</h1>
