@@ -14,6 +14,6 @@ My visual journey began with Rhino. A fairly simple tool, as I navigated the ins
 
 ![]({{ site.url }}/blog/images/cherryflowers.JPG)
 
-
+Where the change started...!
 
 
