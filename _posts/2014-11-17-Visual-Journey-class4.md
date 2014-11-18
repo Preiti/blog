@@ -3,7 +3,7 @@ layout: post
 title: Visual Journey
 ---
 
-{{ page.title }}
+{{Visual Journey}}
 ================
 
 <p class="meta">
