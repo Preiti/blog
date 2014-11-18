@@ -12,7 +12,7 @@ It is already mid term. I remember a journey that I had taken and which tested m
 
 My visual journey began with Rhino. A fairly simple tool, as I navigated the instructions, I cold see my map in 3D with grid lines and contours. the excitement of doing it on my own was tremendous. But I knew this was just the start. My inspiration has always been beautiful flowers and I decided to make that the theme for this blog. One of my favourite flowers is the Cherry Blossom. They thrive in the bitter cold and herald in spring. Their soft hues and delicate appearance are a mirage. They are tough And that epitomises my life.
 
-![]({{ site.url }}/blog/images/cherryflowers.JPG)
+![]({{ site.url }}/blog/images/cherryflowers.jpg)
 
 Where the change started...!
 
