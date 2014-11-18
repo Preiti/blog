@@ -16,8 +16,8 @@ html, body {
 }
 
 body {
-  background-color: white;
-  font: 13.34px helvetica, arial, clean, sans-serif;
+  background-color: ochre;
+  font: 13.34px Noteworthy, skia, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: black;
+  color: red;
 }
 
 a:visited {
@@ -68,7 +68,7 @@ ul.posts {
 
   ul.posts span {
     color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
+    font-family: Noteworthy, "Courier New", monospace;
     font-size: 80%;
   }
 
