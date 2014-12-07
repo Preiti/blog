@@ -8,9 +8,9 @@ title: Mapbox Code & Create
 
 <p class="meta">
 
-I was supposed to present my three ideas for a prototype. And I was nervous. I knew that my idea was scalable, but explaining it was not going to be easy. 
+I was supposed to present my three ideas for a prototype with my team mate. And I was nervous. I knew that the idea was scalable, but explaining it was not going to be easy. 
 
-With innovative thinkers around me, I knew the impact came from the idea itself. And my objective was to provide clarity to the conceptual framework that I was presenting. The maps were to be drawn for:
+With innovative thinkers around me, I knew the impact came from the idea itself. And the objective was to provide clarity to the conceptual framework that we were presenting. The maps were to be drawn for:
 
 A. “From paper work to epicurean experience”
 
@@ -35,6 +35,7 @@ Some resources for food considered nutritious and healthy, that we would use are
 
 http://www.wholefoodsmarket.com/about-our-products/quality-standards/food-ingredient
 
+And then the questions started...
 
 
 
