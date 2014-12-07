@@ -16,4 +16,5 @@ My visual journey began with Rhino. A fairly simple tool, as I navigated the ins
 
 We had participated in a competition for educating children in the age group of 0-6 in urban slums. Mapping out the product and its ditribution channels became the prototype map that I wanted to complete. This is where the change started...!
 
-
+I also started to experiment with colors and coding my blogs to look more interesting. One of the resources was Crayola.json from:
+https://gist.github.com/jjdelc/1868136
