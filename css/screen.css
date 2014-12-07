@@ -50,7 +50,18 @@ table {
   font-size: inherit;
   font: 100%;
 }
-
+<head>
+<style>
+body {
+    background-color: #FFA500;
+}
+h1 {
+    color: maroon;
+    margin-left: 40px;
+} 
+</style>
+</head>
+}
 /*****************************************************************************/
 /*
 /* Home
