@@ -18,3 +18,8 @@ We had participated in a competition for educating children in the age group of 
 
 I also started to experiment with colors and coding my blogs to look more interesting. One of the resources was Crayola.json from:
 https://gist.github.com/jjdelc/1868136
+
+![]({{ site.url }}/blog/images/trinidad/photo_5.jpg)
+
+
+![]({{ site.url }}/blog/images/trinidad/photo_6.jpg)
