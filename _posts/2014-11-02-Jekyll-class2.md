@@ -10,7 +10,7 @@ title: Jekyll & Hyde
 
 New maps and mapping techniques was the order of the day. The class started with a presentation words with Tom MacWright and it was an experience in coding through Mapbox. Though I could visualise what I was being shown, the process of building it was considerably more complex. The fluidness with which Tom went through the journey was interesting. I decided to  read all the resources on Github and Lynda to get a sense of what I was going to work with in the next 6 weeks. 
 
-![]({{ site.url }}/blog/images/photo_4.JPG)
+![]({{ site.url }}/blog/images/photo_4.jpg)
 ![]({{ site.url }}/blog/images/photo_2.JPG)
 ![]({{ site.url }}/blog/images/photo_3.JPG)
 
