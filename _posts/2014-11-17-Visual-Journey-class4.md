@@ -22,5 +22,5 @@ https://gist.github.com/jjdelc/1868136
 ![]({{ site.url }}/blog/images/photo_5.jpg)
 
 
-![]({{ site.url }}/blog/images/photo_6.jpg)
+![]({{ site.url }}/blog/images/photo_7.jpg)
 
