@@ -24,3 +24,5 @@ https://gist.github.com/jjdelc/1868136
 
 ![]({{ site.url }}/blog/images/photo_7.jpg)
 
+document.write('<link rel="stylesheet" href="https://gist-assets.github.com/assets/embed-b67021dc07195830cc157f7720b938fb.css">')
+document.write('<div id=\"gist17196297\" class=\"gist\">\n        <div class=\"gist-file gist-render\">\n          <script src=\"https://embed.github.com/view/geojson/gist/anonymous/86a7ae48ed21022595a5/overpass.geojson\"><\/script>\n        <\/div>\n<\/div>\n')
